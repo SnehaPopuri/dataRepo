@@ -1,8 +1,9 @@
 object demo1 {
 
   def main(args:Array[String]):Unit={
-    print("hello World")
 
+    val a= 10
+    print( a)
 
   }
 
